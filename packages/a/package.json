@@ -1,0 +1,6 @@
+{
+  "name": "a",
+  "scripts": {
+    "build": "sleep 1 && echo A"
+  }
+}

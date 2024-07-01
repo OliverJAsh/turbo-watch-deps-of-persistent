@@ -1,0 +1,11 @@
+{
+  "name": "turbo-watch-deps-of-persistent",
+  "packageManager": "yarn@4.3.1",
+  "dependencies": {
+    "turbo": "2.0.6-canary.0"
+  },
+  "workspaces": [
+    "packages/a",
+    "packages/b"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  // To generate the list of test files, vscode-jest will invoke this, appending
+  // `--listTests --json`.
+  "jest.jestCommandLine": "yarn run turbo run test --"
+  // Workaround:
+  // "jest.jestCommandLine": "yarn run turbo run test --log-prefix=none --"
+}
